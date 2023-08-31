@@ -59,4 +59,3 @@ Contributions are welcome! If you find any issues or improvements, please create
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
