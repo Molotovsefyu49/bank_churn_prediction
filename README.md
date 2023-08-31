@@ -35,8 +35,9 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/bank-customer-churn-analysis.git
-cd bank-customer-churn-analysis
+git clone https://github.com/
+Molotovsefyu49/bank-churn-prediction.git
+cd bank-churn-prediction
 ```
 
 2. Install the required libraries as mentioned above.
